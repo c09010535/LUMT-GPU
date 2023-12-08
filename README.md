@@ -5,4 +5,4 @@ The GPU-based LU refactorization has been added to the LUMT code. The newer code
 LU factorization is performed on CPUs, and GPU device only performs refactorizations which occupy the vast 
 majority of the simulation time.
 
-You can type 'lu filename threads' to run the code.
+You can type 'lu filename threads' to run the code. The input card is the same as that for the LUMT code.
